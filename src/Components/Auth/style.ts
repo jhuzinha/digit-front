@@ -37,7 +37,7 @@ const Navbar = styled.nav`
     padding: 10px;
     align-items: initial;
 `
-const NavbarLink = styled.a`
+const NavbarLink = styled.p`
     position: relative;
     margin-right: 20px;
     padding: 2px;

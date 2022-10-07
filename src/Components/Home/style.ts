@@ -32,6 +32,17 @@ export const Container = styled.div `
     }
     h1 {
         color:  black;
-        font-size: 70px;
+        font-size: 50px;
+    }
+    svg{
+        font-size: 100px;
+    }
+
+    div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 1px solid black;
+        width: 250px;
     }
 `
